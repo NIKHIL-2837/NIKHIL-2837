@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikhil Aravi</h1>
 
-<!--
-**NIKHIL-2837/NIKHIL-2837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Engineering Student • Cloud Enthusiast • Java Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable solutions with Java, Cloud, Networking & Web Technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Cloud+%7C+Networking+%7C+Cybersecurity;Java+Developer;AWS+Academy+Intern;Always+Learning+New+Technologies" />
+</p>
+## 👨‍💻 About Me
+
+🎓 B.Tech in Computer Science & Engineering at **GITAM University**
+
+☁️ Completed internships with **AWS Academy** and **ServiceNow**
+
+💡 Passionate about Cloud Computing, Networking, Cybersecurity and Full Stack Development
+
+🚀 Currently building real-world projects and improving my problem-solving skills
+
+🌱 Always learning new technologies and contributing to open-source
