@@ -92,9 +92,8 @@ Inventory dashboard for tracking stock, reports and analytics.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-2837&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIKHIL-2837&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-2837&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NIKHIL-2837&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
