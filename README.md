@@ -25,97 +25,58 @@
 </p>
 ## 👨‍💻 About Me
 
-🎓 **B.Tech in Computer Science & Engineering** @ GITAM University
+I'm **Aravi Nikhil**, a Computer Science Engineering student at **GITAM University** with a passion for building practical software solutions.
 
-☁️ **AWS Academy Cloud Intern**
+My interests include **Cloud Computing, Networking, Cybersecurity, and Full Stack Development**. I enjoy solving real-world problems through technology and continuously improving my programming and problem-solving skills.
 
-⚙️ **ServiceNow ITSM Intern**
+Currently, I'm expanding my knowledge in **Java, AWS Cloud, Data Structures & Algorithms, and Backend Development** while working on impactful projects.
+## 💼 Experience
 
-💡 Passionate about **Cloud Computing, Networking, Cybersecurity and Full Stack Development**
+### ☁️ AWS Academy
+- Completed Cloud Foundations training
+- Learned AWS core services and cloud concepts
 
-🚀 Building scalable applications using **Java, Python and Web Technologies**
+### ⚙️ ServiceNow
+- Completed IT Service Management (ITSM) training
+- Gained practical exposure to IT workflows and enterprise service management
+- ## 🛠 Tech Stack
 
-🌱 Continuously learning and solving real-world problems
-## 🛠 Tech Stack
+### Languages
+Java • Python • C • JavaScript
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,git,github,vscode,linux,aws" />
-</p>
-## 🚀 Featured Projects
+### Frontend
+HTML • CSS • JavaScript
 
-<table>
-<tr>
-<td width="33%">
+### Backend
+Java
 
+### Database
+MySQL
+
+### Cloud & Tools
+AWS • Git • GitHub • VS Code • Linux
 ### 🚗 Smart Parking System
 
-A smart parking solution with real-time slot booking, QR code generation, Razorpay payment integration and booking history.
+A web application that helps users locate, book and pay for parking spaces online.
 
-**Tech Stack**
+**Highlights**
+- QR Code based booking
+- Razorpay payment integration
+- Booking history
+- Responsive user interface
 
-`HTML` `CSS` `JavaScript` `MySQL`
+**Tech**
+HTML • CSS • JavaScript • MySQL
+## 🎯 2026 Goals
 
-</td>
-
-<td width="33%">
-
-### 🌍 Disaster Management & Alert System
-
-Emergency alert platform that helps users receive disaster notifications and resource updates.
-
-**Tech Stack**
-
-`Java` `MySQL` `Servlets`
-
-</td>
-
-<td width="33%">
-
-### 📦 Inventory Management System
-
-Inventory dashboard for tracking stock, reports and analytics.
-
-**Tech Stack**
-
-`Java` `MySQL` `JavaScript`
-
-</td>
-
-</tr>
-</table>
-## 🏆 Certifications
-
-- ☁️ AWS Academy Cloud Foundations
-- ⚙️ ServiceNow IT Service Management (ITSM)
-- 📚 GitHub & Git Version Control
-- ## 🌱 Currently Learning
-
-- Cloud Computing (AWS)
-- Networking Fundamentals
-- Cybersecurity
-- Java Backend Development
-- Data Structures & Algorithms
-- ## 📫 Connect With Me
-
-📧 **Email:** naravi@gitam.in
-
-🌐 **Portfolio:** https://portfolio-blond-zeta-10.vercel.app/
-
-💼 **LinkedIn:** https://www.linkedin.com/in/nikhil-aravi/
+- Contribute to Open Source
+- Solve 500+ LeetCode Problems
+- Build Full Stack Applications
+- Learn AWS Cloud Services
+- Strengthen Networking & Cybersecurity skills
 <hr>
 
 <p align="center">
-<i>"Code. Learn. Build. Repeat."</i> 🚀
+  <b>Thanks for visiting my profile!</b><br><br>
+  <i>Building. Learning. Growing. 🚀</i>
 </p>
-
-<p align="center">
-Thanks for visiting my profile ❤️
-</p>
-## 💡 Developer Philosophy
-
-I enjoy solving real-world problems through technology and continuously
-improving my skills in Cloud Computing, Networking, Cybersecurity,
-and Full Stack Development.
-
-My goal is to build reliable software that creates real impact while
-continuing to learn from every project.
