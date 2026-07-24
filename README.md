@@ -41,3 +41,57 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,git,github,vscode,linux,aws" />
 </p>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%">
+
+### 🚗 Smart Parking System
+
+A smart parking solution with real-time slot booking, QR code generation, Razorpay payment integration and booking history.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `MySQL`
+
+</td>
+
+<td width="33%">
+
+### 🌍 Disaster Management & Alert System
+
+Emergency alert platform that helps users receive disaster notifications and resource updates.
+
+**Tech Stack**
+
+`Java` `MySQL` `Servlets`
+
+</td>
+
+<td width="33%">
+
+### 📦 Inventory Management System
+
+Inventory dashboard for tracking stock, reports and analytics.
+
+**Tech Stack**
+
+`Java` `MySQL` `JavaScript`
+
+</td>
+
+</tr>
+</table>
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NIKHIL-2837&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-2837&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=NIKHIL-2837&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
