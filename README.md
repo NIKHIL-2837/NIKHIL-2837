@@ -92,6 +92,9 @@ Inventory dashboard for tracking stock, reports and analytics.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-2837&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=NIKHIL-2837&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NIKHIL-2837&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-2837&layout=compact&theme=github_dark&hide_border=true" />
 </p>
