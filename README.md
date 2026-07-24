@@ -83,17 +83,39 @@ Inventory dashboard for tracking stock, reports and analytics.
 
 </tr>
 </table>
-## 📊 GitHub Stats
+## 🏆 Certifications
+
+- ☁️ AWS Academy Cloud Foundations
+- ⚙️ ServiceNow IT Service Management (ITSM)
+- 📚 GitHub & Git Version Control
+- ## 🌱 Currently Learning
+
+- Cloud Computing (AWS)
+- Networking Fundamentals
+- Cybersecurity
+- Java Backend Development
+- Data Structures & Algorithms
+- ## 📫 Connect With Me
+
+📧 **Email:** naravi@gitam.in
+
+🌐 **Portfolio:** https://portfolio-blond-zeta-10.vercel.app/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/nikhil-aravi/
+<hr>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NIKHIL-2837&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-2837&layout=compact&theme=github_dark&hide_border=true"/>
-
+<i>"Code. Learn. Build. Repeat."</i> 🚀
 </p>
-## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NIKHIL-2837&theme=algolia&no-frame=true&row=1&column=6"/>
+Thanks for visiting my profile ❤️
 </p>
+## 💡 Developer Philosophy
+
+I enjoy solving real-world problems through technology and continuously
+improving my skills in Cloud Computing, Networking, Cybersecurity,
+and Full Stack Development.
+
+My goal is to build reliable software that creates real impact while
+continuing to learn from every project.
