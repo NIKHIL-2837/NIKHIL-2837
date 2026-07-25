@@ -66,33 +66,63 @@ Passionate about Cloud ☁️ • Networking 🌐 • Full Stack Development �
 
 # 🚀 Featured Projects
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🚗 Smart Parking System
 
-A web-based smart parking solution with:
+A web-based parking management solution designed to simplify the parking experience through real-time booking and secure digital services.
 
-- Real-time parking booking
-- QR Code Generation
-- Razorpay Payment Integration
-- Booking History
-- Responsive UI
+### Key Features
+- 🚘 Real-time parking slot booking
+- 💳 Secure Razorpay payment integration
+- 📱 QR code generation for seamless entry
+- 📜 Booking history with vehicle details
+- 📍 Location-based parking selection
+- 📱 Fully responsive and user-friendly interface
 
-🔗 Repository: https://github.com/NIKHIL-2837
+### Technologies
+HTML • CSS • JavaScript • Razorpay API
 
----
+<p align="center">
+<a href="https://github.com/NIKHIL-2837">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 🌍 Disaster Management & Alert System
 
-A college project designed to provide alerts and emergency information during disasters.
+A disaster response platform developed to improve emergency communication and provide timely alerts during natural disasters.
 
-🔗 Repository: https://github.com/NIKHIL-2837
+### Key Features
+- 🚨 Emergency alert notifications
+- 📍 Disaster location tracking
+- 🗺️ Interactive map visualization
+- 📞 Emergency contact information
+- 📢 Awareness and safety guidelines
+- 👥 Simple interface for quick access
 
----
+### Technologies
+HTML • CSS • JavaScript
 
-## 📦 Inventory Management System
+<p align="center">
+<a href="https://github.com/NIKHIL-2837">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
-An inventory management application developed for managing products and stock efficiently.
+</td>
 
-🔗 Repository: https://github.com/NIKHIL-2837
+</tr>
+</table>
 
 ---
 
