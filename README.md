@@ -130,17 +130,6 @@ HTML • CSS • JavaScript
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIKHIL-2837&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIKHIL-2837&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIKHIL-2837&theme=github_dark" width="49%" />
-</p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -153,14 +142,6 @@ HTML • CSS • JavaScript
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKHIL-2837&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NIKHIL-2837/NIKHIL-2837/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
